@@ -1,3 +1,14 @@
+
+# About this Project
+
+This is a fork from [wbs](https://www.blessen.de) of the udm Git
+Project.
+
+Target is to have an accessible HTML Menu to use as a template in every
+project.
+
+Visit the [Website of the UDM Project](http://www.udm4.com/) !
+
 About UDM
 ===
 Ultimate Dropdown Menu Version 4 is unique among its contemporaries - there is no other menu system available on the internet today, which quite matches UDM's combination of accessibility, usability and feature-rich design.
